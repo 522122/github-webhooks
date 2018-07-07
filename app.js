@@ -7,7 +7,7 @@ var projects = require('./projects');
 // 	{
 // 			path: '/webhooks/...',
 // 			secret: '...',
-// 			local: '/home/.../code/...'
+// 			local: '/home/.../code/..'
 // 	}
 // ];
 
